@@ -1,1 +1,2 @@
-# -Arduino-Step-by-Step-Getting-Started-by-Tech-explorations
+222. [0010] Please watch this before continuing!
+     1min

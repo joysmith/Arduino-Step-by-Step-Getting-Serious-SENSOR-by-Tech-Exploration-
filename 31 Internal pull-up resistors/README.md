@@ -1,1 +1,2 @@
-# -Arduino-Step-by-Step-Getting-Started-by-Tech-explorations
+236. [2110] Using the build-in pull-up resistors
+     7min

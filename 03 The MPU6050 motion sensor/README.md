@@ -13,7 +13,13 @@
 
 ### 14. [0540c] MPU6050 wiring<a id="14"></a>
 
+<img src="assets/images/0540 - MPU6050.png" width="700">
+
 ### 15. [0540d] MPU6050 Arduino sketch<a id="15"></a>
+
+```ino
+
+```
 
 ### 16. [0540e] MPU6050 Processing demonstration<a id="16"></a>
 

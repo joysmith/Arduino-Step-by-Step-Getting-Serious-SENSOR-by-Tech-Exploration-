@@ -411,3 +411,9 @@ void loop() {
     delay(2000);
 }
 ```
+
+Notice-
+
+- Adafruit_BME280.h has class to create BME object, Object has method for reading sensor value
+- SPI: uses MOSI, MISO, SCK, CS pins and uses SPI.h file to establish communication
+- TWI: uses SCK, SDI pins and uses Wire.h file to establish communication

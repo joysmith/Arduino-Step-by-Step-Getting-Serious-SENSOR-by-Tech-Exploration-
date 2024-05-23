@@ -15,6 +15,11 @@
 
 ### 266. [2340a] Introduction to Helium<a id="266"></a>
 
+IOT: An application that combine things like small computer or micocontroller with service running on the internet
+
+- It could be a data logger: So arduino with bunch of sensor collected data from home, factory, lab, anywhere that data is send to some online facility, could be a database, data is stored, so later we can process it create chart, graph etc
+- we can use actuator like relay to control system online
+
 ### 267. [2340b] Helium hardware<a id="267"></a>
 
 ### 268. [2340c] Helium network explainer setup<a id="268"></a>

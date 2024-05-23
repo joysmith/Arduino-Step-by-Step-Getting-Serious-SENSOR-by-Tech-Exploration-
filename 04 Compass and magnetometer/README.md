@@ -33,6 +33,10 @@
 
 <img src="assets/images/4.png" width="700">
 
+- Open arduino IDE, go to sketch--> include library--> manage libraries--> search:adafruit unified sensor by adafruit--> install
+
+- Open arduino IDE, go to sketch--> include library--> manage libraries--> search:adafruit_hmc5883 sensor by adafruit--> install
+
 ```ino
 /*  HMC5883 magnetometer sensor demo sketch 1
  *

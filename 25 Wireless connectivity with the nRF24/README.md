@@ -257,6 +257,10 @@ void loop()
 
 ### 215. [1300e] Simple test demo<a id="215"></a>
 
+<img src="assets/images/5.png" width="700">
+
+<img src="assets/images/6.png" width="700">
+
 ### 216. [1300f] Comprehensive demo<a id="216"></a>
 
 ### 217. [1300g] Comprehensive demo sketch<a id="217"></a>

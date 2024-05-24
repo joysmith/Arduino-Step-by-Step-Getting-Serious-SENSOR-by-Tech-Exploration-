@@ -263,4 +263,8 @@ void loop()
 
 ### 216. [1300f] Comprehensive demo<a id="216"></a>
 
+<img src="assets/images/1300a+-+nRF24+Node+1.png" width="700">
+
+<img src="assets/images/1300b+-+nRF24+Node+2.png" width="700">
+
 ### 217. [1300g] Comprehensive demo sketch<a id="217"></a>
